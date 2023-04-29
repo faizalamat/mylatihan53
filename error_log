@@ -1,0 +1,68 @@
+[07-Sep-2011 19:25:29] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:25:29] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:25:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:25:38] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:25:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:25:44] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:27:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:27:11] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:28:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:28:48] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:28:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:28:53] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:29:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:29:06] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:29:23] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:29:23] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:29:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:29:25] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:29:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:29:27] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:29:29] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:29:29] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:29:32] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:29:32] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:31:10] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:31:10] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:31:57] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:31:57] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:31:58] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:31:58] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:32:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:32:33] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:33:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:33:15] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:33:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:33:16] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:33:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:33:17] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:33:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:33:17] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:33:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:33:49] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:33:50] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:33:50] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:33:52] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:33:52] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:33:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:33:54] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:33:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:33:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:33:58] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'admin'@'localhost' (using password: YES) in /home/mzakimy/public_html/elatihan/inc/conn.php on line 2
+[07-Sep-2011 19:33:58] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mzakimy/public_html/elatihan/inc/conn.php on line 3
+[07-Sep-2011 19:34:00] PHP Warning:  include(inc/conn.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mzakimy/public_html/elatihan/index.php on line 3
+[07-Sep-2011 19:34:00] PHP Warning:  include(inc/conn.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mzakimy/public_html/elatihan/index.php on line 3
+[07-Sep-2011 19:34:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'inc/conn.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mzakimy/public_html/elatihan/index.php on line 3
+[07-Sep-2011 19:34:02] PHP Warning:  include(inc/conn.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mzakimy/public_html/elatihan/index.php on line 3
+[07-Sep-2011 19:34:02] PHP Warning:  include(inc/conn.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mzakimy/public_html/elatihan/index.php on line 3
+[07-Sep-2011 19:34:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'inc/conn.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mzakimy/public_html/elatihan/index.php on line 3
+[08-Sep-2011 03:56:33] PHP Parse error:  syntax error, unexpected $end in /home/mzakimy/public_html/elatihan/tmp/index.php on line 49
+[24-Sep-2011 16:48:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/mzakimy/public_html/elatihan/inc/profail_daftar.php on line 9
+[24-Sep-2011 19:41:16] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR in /home/mzakimy/public_html/elatihan/inc/profail_daftar.php on line 9
+[24-Sep-2011 19:48:48] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR in /home/mzakimy/public_html/elatihan/inc/profail_daftar.php on line 9
+[24-Sep-2011 19:49:19] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR in /home/mzakimy/public_html/elatihan/inc/profail_daftar.php on line 9
+[24-Sep-2011 23:18:49] PHP Parse error:  syntax error, unexpected '=' in /home/mzakimy/public_html/elatihan/inc/profail_daftar.php on line 29
+[25-Sep-2011 03:08:59] PHP Parse error:  syntax error, unexpected T_STRING in /home/mzakimy/public_html/elatihan/inc/profail_daftar.php on line 32
+[25-Sep-2011 03:10:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/mzakimy/public_html/elatihan/inc/profail_daftar.php on line 8
+[25-Sep-2011 03:12:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/mzakimy/public_html/elatihan/inc/profail_daftar.php on line 8
+[25-Sep-2011 03:13:17] PHP Parse error:  syntax error, unexpected T_STRING in /home/mzakimy/public_html/elatihan/inc/profail_daftar.php on line 8
